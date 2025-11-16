@@ -1,0 +1,26 @@
+.soc{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    margin: 15px;
+    border: 5px solid rgb(7, 71, 7);
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+}
+html{
+    background-color: darkolivegreen;
+     display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+h1{
+    font-style: bold;
+    font-size: 100px;
+    
+}
+
+img{
+    border-radius: 20%;
+}
